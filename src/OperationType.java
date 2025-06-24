@@ -1,2 +1,4 @@
-public class OperationType {
+package PACKAGE_NAME;
+
+public enum OperationType {
 }
