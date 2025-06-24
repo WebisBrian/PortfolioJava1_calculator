@@ -5,7 +5,7 @@ Voici le contenu généré automatiquement pour ton `README.md`, prêt à être 
 ````markdown
 # 🧮 Calculatrice Java (Console)
 
-![Java](https://img.shields.io/badge/Java-17+-orange?logo=java)
+![Java](https://img.shields.io/badge/Java-24-orange?logo=java)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Status](https://img.shields.io/badge/status-learning-informational)
 
