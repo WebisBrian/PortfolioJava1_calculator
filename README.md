@@ -1,4 +1,3 @@
-Voici le contenu généré automatiquement pour ton `README.md`, prêt à être copié-collé dans un fichier `README.md` à la racine de ton projet :
 
 ---
 
