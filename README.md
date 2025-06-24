@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # 🧮 Calculatrice Java (Console)
 
 ![Java](https://img.shields.io/badge/Java-24-orange?logo=java)
